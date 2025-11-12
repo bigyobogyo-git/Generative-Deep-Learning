@@ -1,0 +1,15 @@
+virtualenv XYZ
+
+source XYZ/bin/activate
+
+$ pip install tensorflow[and-cuda]==2.19
+
+$ pip install --upgrade pip
+
+$ pip install pandas matplotlib keras numpy keras-hub jupyterlab scikit-learn
+
+$ pip install --upgrade "jax[cuda12]"
+
+$ pip install tensorflow_datasets
+
+some are optional so install as much as you need to keep it minimal and light. 
