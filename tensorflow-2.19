@@ -12,6 +12,8 @@ $ pip install --upgrade "jax[cuda12]"
 
 $ pip install tensorflow_datasets
 
+$ pip install --upgrade ipywidgets
+
 some are optional so install as much as you need to keep it minimal and light. 
 
 $ pip list | grep nvidia
