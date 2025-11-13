@@ -12,7 +12,7 @@ $ pip install --upgrade "jax[cuda12]"
 
 $ pip install tensorflow_datasets
 
-$ pip install --upgrade ipywidgets
+$ pip install --upgrade ipywidgets          #to get rid off one error message. 
 
 some are optional so install as much as you need to keep it minimal and light. 
 
