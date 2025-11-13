@@ -1,5 +1,4 @@
 $ virtualenv xyz
-$ pip install "keras<3.0.0" "tensorflow[and-cuda]<2.16"
-$ pip install jupyterlab matplotlib numpy scikit-learn pandas
+$ pip install "tensorflow[and-cuda]<2.16" "keras<3" jupyterlab numpy pandas matplotlib tensorflow_datasets keras-hub
 
 $ pip install #other dependecies on demand#
